@@ -1,0 +1,30 @@
+{
+    "name": "ejercicio2_node",
+    "version": "1.0.0",
+    "description": "Crear un API que cree, actualice, eliminé y obtenga uno o más registros.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/programando-ideas/ejercicio2_node.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/programando-ideas/ejercicio2_node/issues"
+    },
+    "homepage": "https://github.com/programando-ideas/ejercicio2_node#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "helmet": "^3.22.0",
+        "morgan": "^1.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
