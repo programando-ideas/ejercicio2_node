@@ -1,5 +1,14 @@
 # Se tiene que crear un API que cree, actualice, eliminé y obtenga uno o más registros
 
+###1. Para ejecutar el proyecto
+
+```bash
+npm install
+npm start
+
+```
+
+###2. Requerimiento
 1) Crear usuario (Todos los campos son necesarios) 
 - Nombre completo
 - Fecha de nacimiento // fecha mayor a 18 años
